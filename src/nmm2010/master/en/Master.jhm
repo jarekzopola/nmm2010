@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE map
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+	<mapID target="intro" url="intro.html"/>
+        <mapID target="instalacja" url="master/en/instalacja.html"/>
+	<mapID target="demo" url="master/en/demo.html"/>
+	<mapID target="kontakt" url="master/en/kontakt.html"/>
+        <mapID target="gui" url="master/en/gui.html"/>
+
+        <mapID target="projekt" url="master/en/projekt.html"/>
+        <mapID target="project.new" url="master/en/projekt_nowy.html"/>
+        <mapID target="project.open" url="master/en/projekt_otworz.html"/>
+        <mapID target="project.properties" url="master/en/projekt_properties.html"/>
+        <mapID target="project.konfiguracja" url="master/en/projekt_konfiguracja.html"/>
+        <mapID target="project.save" url="master/en/projekt_save.html"/>
+        <mapID target="project.saveas" url="master/en/projekt_saveas.html"/>        
+        <mapID target="project.wyjdz" url="master/en/projekt_wyjdz.html"/>
+
+        <mapID target="urzadzenia.urzadzenia" url="master/en/urzadzenie_urzadzenie.html"/>
+        <mapID target="urzadzenia.import" url="master/en/urzadzenie_import.html"/>
+
+        <mapID target="edit.selectionmode" url="master/en/edycja_trybselekcji.html"/>
+        <mapID target="edit.selectionmode.keyboard" url="master/en/edycja_trybselekcji_klawiatura.html"/>
+
+        <mapID target="measurement.import" url="master/en/measurement_import.html"/>
+        <mapID target="measurement.export" url="master/en/measurement_export.html"/>
+        <mapID target="measurement.trim" url="master/en/measurement_trim.html"/>
+        <mapID target="measurement.table" url="master/en/measurement_table.html"/>
+
+        <mapID target="events.new" url="master/en/zdarzenia_nowe.html"/>
+        <mapID target="events.import" url="master/en/zdarzenia_import.html"/>
+        <mapID target="events.edytor_zdarzenia" url="master/en/zdarzenia_edytor.html"/>
+        <mapID target="events.edytor_typu" url="master/en/zdarzenia_edytor_typu.html"/>
+        
+        <mapID target="models_en.manager" url="models_manager_en.html"/>
+        <mapID target="models_en.create_en.m1_en" url="models_create_m1_en.html"/>
+
+        <mapID target="prezentacje.utworz" url="master/en/prezentacje_utworz.html"/>
+        <mapID target="prezentacje.manager" url="master/en/prezentacje_manager.html"/>
+        <mapID target="prezentacje.utworz.doba" url="master/en/prezentacje_utworz_dobowa.html"/>
+        <mapID target="prezentacje.utworz.stda4" url="master/en/prezentacje_utworz_stda4.html"/>
+        <mapID target="prezentacje.utworz.zdarzenia" url="master/en/prezentacje_utworz_zdarzenia.html"/>
+        <mapID target="prezentacje.utworz.probkowanie" url="master/en/prezentacje_utworz_probkowanie.html"/>        
+
+        <mapID target="faq" url="master/en/faq.html"/>
+</map>

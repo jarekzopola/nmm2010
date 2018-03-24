@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'  ?>
+
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+<toc version="1.0">
+    <tocitem text="NMM 2010">
+        <tocitem text="Wprowadzenie" target="intro"/>
+        <tocitem text="Nowości" target="nowe"/>
+        <tocitem text="Instalacja" target="instalacja"/>
+        <tocitem text="Interfejs" target="gui"/>
+        <tocitem text="Projekt demonstracyjny" target="demo"/>        
+    </tocitem>
+    <tocitem text="Menu programu">
+        <tocitem text="Projekt">
+            <tocitem text="Nowy" target="project.new"/>
+            <tocitem text="Otwórz" target="project.open"/>
+            <tocitem text="Zapisz" target="project.save"/>
+            <tocitem text="Zapisz jako..." target="project.saveas"/>
+            <tocitem text="Właściwości" target="project.properties"/>
+            <tocitem text="Konfiguracja" target="project.konfiguracja"/>
+            <tocitem text="Wyjdz" target="project.wyjdz"/>
+        </tocitem>
+        <tocitem text="Urządzenia">
+            <tocitem text="Urządzenia" target="urzadzenia.urzadzenia"/>
+            <tocitem text="Import" target="urzadzenia.import"/>
+        </tocitem>
+
+        <tocitem text="Widok">
+            <tocitem text="Powiększenie %" target="widok.powiekszeniep"/>
+            <tocitem text="Pełne powiększenie" target="widok.ppowiekszenie"/>
+            <tocitem text="Skala pionowa" target="widok.skalap"/>
+        </tocitem>
+
+        <tocitem text="Edycja">
+            <tocitem text="Tryb wyboru" target="edit.selectionmode">
+                    <tocitem text="Klawiaturowy" target="edit.selectionmode.keyboard"/>
+                    <tocitem text="10/60 sekund" target="edit.selectionmode.10n60sec"/>
+                    <tocitem text="n sekund" target="edit.selectionmode.nsec"/>
+                    <tocitem text="Kalwiaturowy" target="edit.selectionmode.klawiatura"/>
+            </tocitem>
+            <tocitem text="Usun zaznaczenie" target="edit.clearselection"/>
+            <tocitem text="Zaznaczenie">
+                    <tocitem text="do poziomu tła" target="edit.selectionmode.klawiatura"/>
+                    <tocitem text="do poziomu z sąsiedztwa" target="edit.selectionmode.klawiatura"/>
+                    <tocitem text="do poziomu tła" target="edit.selectionmode.klawiatura"/>
+                    <tocitem text="do schowka" target="edit.selectionmode.klawiatura"/>
+                    <tocitem text="wytnij" target="edit.selectionmode.klawiatura"/>
+                    <tocitem text="wykasuj" target="edit.selection.wykasuj"/>
+                    <tocitem text="edytuj" target="edit.selection.edytuj"/>
+            </tocitem>
+            <tocitem text="Wklej ze schowka" target="edit.pasteselection"/>
+        </tocitem>
+
+        <tocitem text="Zapis">
+            <tocitem text="Import" target="measurement.import"/>
+            <tocitem text="Eksport" target="measurement.export"/>
+            <tocitem text="Właściwości" target="measurement.properties"/>
+            <tocitem text="Przytnij" target="measurement.trim"/>
+            <tocitem text="Ustaw czas" target="measurement.timeadjust"/>
+            <tocitem text="Tabela zapisów" target="measurement.table"/>
+        </tocitem>                
+
+        <tocitem text="Zdarzenia">
+            <tocitem text="Nowe" target="events.new"/>
+            <tocitem text="Usuń" target="events.del"/>
+            <tocitem text="Edytor" target="events.edytor_zdarzenia"/>
+            <tocitem text="Tabela" target="events.tabela"/>
+            <tocitem text="Import" target="events.import"/>
+            <tocitem text="Export" target="events.export"/>
+            <tocitem text="Edytor typów" target="events.edytor_typu"/>
+        </tocitem>
+
+        <tocitem text="Modele">
+            <tocitem text="Zarządca modeli" target="modele.manager"/>
+            <tocitem text="Utwórz model" target="modele.utworz">
+                <tocitem text="Hałas drogowy próbkowaniem" target="modele.utworz.roadssampling"/>
+                <tocitem text="Metoda referencyjna pojedynczych zdarzeń" target="modele.utworz.single_ev_ref"/>
+                <tocitem text="Pomiar hałas w punkcie w oparciu o zdarzenia" target="modele.utworz.singel_ev"/>
+                <tocitem text="Prosty pomiar hałasu w punkcie" target="modele.utworz.simple_measurement"/>
+                <tocitem text="Pomiar mocy akustycznej" target="modele.utworz.moc_akustyczna"/>
+            </tocitem>
+        </tocitem>
+
+        <tocitem text="Prezentacje">
+            <tocitem text="Manager prezentacji" target="prezentacje.manager"/>
+            <tocitem text="Utwórz prezentację" target="prezentacje.utworz">
+                <tocitem text="Standardowa A4" target="prezentacje.utworz.stda4"/>
+                <tocitem text="Pomiar dobowy" target="prezentacje.utworz.doba"/>
+                <tocitem text="Pojedyncze zdarzenia 914/297" target="prezentacje.utworz.MEGA_SINGLE_EVENTS"/>
+                <tocitem text="Pojedyncze zdarzenia" target="prezentacje.utworz.zdarzenia"/>
+                <tocitem text="Próbkowanie" target="prezentacje.utworz.probkowanie"/>
+            </tocitem>
+        </tocitem>
+        
+        <tocitem text="Pomoc">
+            <tocitem text="FAQ" target="faq"/>
+            <tocitem text="Kontakt" target="kontakt"/>
+        </tocitem>
+    </tocitem>    
+</toc>

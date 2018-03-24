@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2016-09-23, 13:54:53
+    Author     : User
+*/
+
+body {
+    background-color: lightblue;
+}
+
+p {
+    font-family: Arial, Tahoma, serif;
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+img {
+    margin-left: 20px;
+}
+
+ul {
+       font-family: Arial, Tahoma, serif;
+       font-size: 12px;    
+}
+
+h1 {
+    font-family: Arial, Tahoma, serif;
+    color: navy;
+    margin-left: 16px;
+}
+
+h2 {
+    font-family: Arial, Tahoma, serif;
+    color: navy;
+    margin-left: 14px;
+}
+
+h3 {
+    font-family: Arial, Tahoma, serif;
+    color: navy;
+    margin-left: 12px;
+}

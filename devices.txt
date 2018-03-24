@@ -1,0 +1,24 @@
+﻿EC-MIERN-01 (09.2016)
+Całkujący miernik poziomu dźwięku Bruel & Kjaer typu 2236 Mediator nr fabryczny 2015772 wraz z mikrofonem typu 4188 nr fabryczny 2120942 (nr ewid. EC-MIERN-01)
+Świadectwo wzorcowania nr W5/401-156/1/16 z dnia 01.09.2016 wydane przez Dyrektora Okręgowego Urzędu Miar we Wrocławiu
+0.9
+EC-MIERN-02 (09.2016)
+Całkujący miernik poziomu dźwięku Bruel & Kjaer typu 2236 Mediator nr fabryczny 2100931 wraz z mikrofonem typu 4189 nr fabryczny 2695385 (nr ewid. EC-MIERN-02)
+Świadectwo wzorcowania nr W5/401-156/2/16 z dnia 01.09.2016 wydane przez Dyrektora Okręgowego Urzędu Miar we Wrocławiu
+0.9
+EC-MIERN-03 (02.2016)
+Całkujący miernik poziomu dźwięku firmy Bruel & Kjaer typu 2238 Mediator nr 2457205 z mikrofonem typu 4188 nr 2499652 (nr ewid. EC-MIERN-03)
+Świadectwo wzorcowania z dnia 11 luty 2016r. nr W5/401-29/1/16 wydane przez dyrektora Okręgowego Urzędu Miar we Wrocławiu
+0.9
+EC-MIERN-04 (02.2016)
+Całkujący miernik poziomu dźwięku firmy Bruel & Kjaer typu 2238 Mediator nr 2457221 z mikrofonem typu 4188 nr 2499717 (nr ewid. EC-MIERN-04)
+Świadectwo wzorcowania z dnia 12 luty 2016r. nr W5/401-29/2/16 wydane przez dyrektora Okręgowego Urzędu Miar w Wrocławiu
+0.9
+EC-MIERN-05 (08.2016)
+Całkujący miernik poziomu dźwięku Bruel & Kjaer typu 2250 nr fabryczny 2704779 wraz z mikrofonem typu 4952 nr fabryczny 2667850 (nr ewid. EC-MIERN-05)
+Świadectwo wzorcowania nr W5/401-137/3/16 z dnia 04.08.2016 wydane przez Dyrektora Okręgowego Urzędu Miar we Wrocławiu
+0.9
+EC-MIERN-06 (08.2016)
+Całkujący miernik poziomu dźwięku Bruel & Kjaer typu 2250 nr fabryczny 2704778 wraz z mikrofonem typu 4952 nr fabryczny 2667857 (nr ewid. EC-MIERN-06)
+Świadectwo wzorcowania nr W5/401-137/4/16 z dnia 05.08.2016 wydane przez Dyrektora Okręgowego Urzędu Miar we Wrocławiu
+0.9

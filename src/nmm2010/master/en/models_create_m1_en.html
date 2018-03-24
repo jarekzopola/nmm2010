@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd"> 
+<HTML lang="en-US">
+    <head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        <TITLE>NMM 2010 * Noise source model * Road sampling</TITLE>
+        <LINK href="nmmhelp.css" rel="stylesheet" type="text/css">
+    </HEAD>
+    <BODY BGCOLOR="#ffffff">
+        <h1>Road noise sampling.</h1>
+        <h2>Introduction</h2>
+        <p>This calculation model is based on Polish reference method described in
+           <span class="rozporzadzenie"> Rozporządzenie Ministra Środowiska z dnia 16 czerwca 2011 r. w sprawie wymagań w 
+        zakresie prowadzenia pomiarów poziomów substancji lub energii w środowisku przez 
+        zarządzającego drogą, linią kolejową, linią tramwajową, lotniskiem lub portem
+        (Dz. U. z dnia 7 lipca 2011 r.)</span></p>
+        <p>Obviously this method can be applied in any country, except situations where
+        application of local measurement method is obligatory.</p>
+        <p>Road noise sampling is based on assumption that whole day and night may be divided into
+        shorter periods (in this case 24 1-hour long periods) and it is possible to
+        assign those periods into groups where noise level doesn't differ more then 3dB</p>
+        <p>Usually it is possible to create 4-7 such a groups. Field noise measurement is then
+        required only in representative hours and Leq is calculated based on those samples.</p>
+        <p>This method has advantage: it is not required to measure traffic noise 
+            during 24-hour period, but it also has disadvantages: it is not so accurate as
+        24-hour long measurement, and before it can be applied there must be a way to 
+        identify equally "noisy" periods. And this means we need at least information on treffic volume.</p>
+        <h2>Example</h2>
+        <p>The first picture shows 24 hour road noise measurement. It starts at 6 AM and lasts until 6 AM next day.
+        The measurement is long enough to tell noise level for day and night without any further processing,
+        however for our own purpose let's try to calculate noise level according to road noise sampling method.</p>
+        <ul>
+            <li><p>We have got information on traffice, and according to it
+            is possible to create following groups of periods (look at last column).
+            We used NMPB calculation method to estimate sound power level of the road
+            during each hour of day and night.<br/></p>
+            <img src="../images/models/road_sampling/traffic_stats.png" alt="hh"></li>            
+            <li>In the next step we mark 15-minutes samples. At least 3 samples (events) for each 
+            group</li>
+            <li>Finally we have at least 3*6=18 samples (events) called tk1 (3 samples), tk2 (3 samples),
+                ..., tk6 (3 samples)</li>
+            <li>In the next step choose <span class="button">[MODELS]->[NEW MODEL]->
+                    [ROAD SAMPLING]</span> and you ought to see following dialog window:
+                    <img src="" alt="Road sampling method dialog window"></li>
+            <li>Fill in model name - this just description for your convenience</li>
+            <li>Fill in table - here you can assign sample (event) types to each hour in a day and night period.</li>
+            <li>Decide if apply -3dB correction in microfone was located near reflecting surface</li>
+            <li>Decide if substract L95 from measurement result</li>
+            <li>Now final results are displayed in lower part of the dialog window.</li>
+            <li>Press <span class="button">[OK]</span> button to add model to project.</li>
+        </ul>
+        <img src="../images/models/road_sampling/road_sampling.png" alt="Road noise sampling model dialog window">
+        <p>All created models are added to NMM project and saved on disc together with whole data. You can come
+            back to the model using "Model manager" (<span class="button">[MODELS] -> [MODELS MANAGER]</span>)</p>
+        <hr>
+        <address>Last updated: 03.12.2012, Jarosław Kowalczyk</address>
+    </BODY>
+</HTML>

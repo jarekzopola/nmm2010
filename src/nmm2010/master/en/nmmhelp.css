@@ -1,0 +1,53 @@
+/* 
+    Document   : nmmhelp
+    Created on : 2012-11-30, 19:23:17
+    Author     : jarek
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+h1 {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18pt;
+    font-weight: 800;
+    color:black
+}
+
+h2 {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16pt;
+    font-weight: 600;
+    color:black
+}
+
+h3 {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14pt;
+    font-weight: 400;
+    color:black;
+}
+
+p {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12pt;
+    color:darkslateblue
+}
+
+.button {
+    font-family: Courier;
+    font-weight: 800;
+}
+
+.rozporzadzenie {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12pt;
+    color:gray
+}
+
+img {
+    margin: 1em;
+}
